@@ -1,5 +1,10 @@
 public class test_app {
 	public static void main(String[] args) {
-		System.out.println("hello, world!");
+    
+    int  x  =  13  ;
+
+    int  y  =  17  ;
+
+    System.out.println(x+y);
 	}
 }
