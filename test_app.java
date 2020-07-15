@@ -1,10 +1,6 @@
 public class test_app {
 	public static void main(String[] args) {
     
-    int  x  =  13  ;
-
-    int  y  =  17  ;
-
-    System.out.println(x+y);
+    System.out.println(13*17);
 	}
 }
