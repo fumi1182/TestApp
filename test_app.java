@@ -8,7 +8,7 @@ public class test_app {
 		x *= 3  ;
 
 
-		System.out.println(x); 
+		System.out.println(x);
 
 		x /= 2  ;
 		
